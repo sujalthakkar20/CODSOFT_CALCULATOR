@@ -11,7 +11,7 @@
 By completing this project, you'll strengthen your understanding of HTML, CSS, and JavaScript and learn how to build interactive web applications.
 
 # Project Demo
-  - Check out the live demo of the calculator: Live Demo
+  - Check out the live demo of the calculator: [Live Demo](https://sujalthakkar20.github.io/CODSOFT_CALCULATOR/)
 
 # Video Previews:
-  -  .Laptop View: Watch here
+  -  .Laptop View: [Watch here](https://sujalthakkar20.github.io/CODSOFT_CALCULATOR/Task-3_video.mp4)
