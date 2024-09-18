@@ -1,18 +1,17 @@
-# Personal Portfolio Project at CODSOFT
-## Project Overview
-  - Building a personal portfolio using HTML and CSS is a great beginner-level web development project. This project allows you to create a professional platform to showcase your skills, experience, and accomplishments. A personal portfolio is an effective way to leave a positive first impression and present your work in a structured and visually appealing manner.
+## Basic Calculator Project at CODSOFT
+# Project Overview
+  - This project involves creating a basic calculator using HTML, CSS, and JavaScript. The calculator will feature an interactive interface with buttons for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. Users will also have a display screen to show their input and calculation results. This project is a great opportunity to practice combining front-end design with functional JavaScript logic.
 
-# Key Sections:
-  - Header Section: Display your name or logo at the top. You can also add a short introduction or tagline to quickly describe who you are.
-  - About Section: Include a picture of yourself along with a brief bio that outlines your skills, background, and experience.
-  - Skills Section: Highlight your primary skills or areas of expertise, giving visitors a clear understanding of what you bring to the table.
-  - Projects Section: Showcase your work by displaying project titles, descriptions, and images to provide insight into your capabilities.
-  - Resume Section: Offer a downloadable PDF version of your resume so potential employers or collaborators can easily learn more about your qualifications.
-  - Contact Section: Make it easy for visitors to reach you by providing your email address, phone number, or links to your social media accounts.
-  - Footer: Add a copyright notice, and include any additional relevant information, such as social media links.
+# Key Areas of Focus:
+  - Interactive Interface: Design a clean, user-friendly interface with numerical and operation buttons, allowing users to easily input data and perform calculations.
+  - Display Screen: Create a display area to show real-time user input and calculation results, ensuring an intuitive and responsive experience.
+  - CSS Grid System: Leverage CSS grid to neatly organize the calculator buttons, ensuring a well-structured layout that is both functional and aesthetically pleasing.
+  - JavaScript Functionality: Implement the core calculator logic using JavaScript, handling user input and performing calculations through event listeners, operators, and conditionals.
+
+By completing this project, you'll strengthen your understanding of HTML, CSS, and JavaScript and learn how to build interactive web applications.
 
 # Project Demo
- - Check out the live version of the portfolio: [Live Demo](https://sujalthakkar20.github.io/CODSOFT_CALCULATOR/)
+  - Check out the live demo of the calculator: Live Demo
 
 # Video Previews:
-  - Portfolio Laptop View: [Watch here]()
+  -  .Laptop View: Watch here
